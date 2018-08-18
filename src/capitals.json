@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Austin, TX",
+    "imageURL": "https://s3-media2.fl.yelpcdn.com/bphoto/-Zb1W3HSIkSP1wM8yHaovQ/348s.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Olympia, WA",
+    "imageURL": "https://i.forbesimg.com/media/lists/places/olympia-wa_416x416.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Des Moines, IA",
+    "imageURL": "https://img-aws.ehowcdn.com/560x560p/photos.demandstudios.com/getty/article/189/42/78052161.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Portland, OR",
+    "imageURL": "https://www.roadunraveled.com/wp-content/uploads/2014/11/portland-sign-300x300.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Sacramento, CA",
+    "imageURL": "https://i.forbesimg.com/media/lists/places/sacramento-ca_200x200.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Montpelier, VM",
+    "imageURL": "https://www.soaringsports.com/wp-content/uploads/2017/09/montpelier-vermont-500x500.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Albany, NY",
+    "imageURL": "https://pbs.twimg.com/profile_images/1393988120/front_albany1_400x400.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Springfield, IL",
+    "imageURL": "https://img-aws.ehowcdn.com/560x560p/photos.demandstudios.com/140/65/fotolia_4988747_XS.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Phoenix, AZ",
+    "imageURL": "https://s3-media1.fl.yelpcdn.com/bphoto/_79xw2xymZsGjPLOkQQQVw/348s.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Santa Fe, NM",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXqLi75EzWnVqai5k10o_qwfJqm_mKcgRP_aBxRzVZYV0UowN",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Madison, WI",
+    "imageURL": "https://i.pinimg.com/originals/01/8d/86/018d86ff0d4cda47db7453af22221aaf.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Montgomery, AL",
+    "imageURL": "https://s3-media4.fl.yelpcdn.com/bphoto/0WfnyzV5C7BLetBzPTTSeg/348s.jpg",
+    "count": 0
+  }
+]
